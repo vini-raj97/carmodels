@@ -1,0 +1,18 @@
+/* style.css */
+.car {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    padding: 20px;
+  }
+  
+  .car-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .description {
+    margin-left: 20px;
+  }
+  
